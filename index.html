@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+NOM : Tayache
+Prénom : Rayane
+
+-->
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Quelle tuile !</h1>
+
+    <div id="container">
+      <p class="puzzledescription">
+        L'objectif de ce puzzle est de reconsituer l'image d'origine en déplaçant
+        les tuiles. Une tuile adjacente à la zone vide peut y être déplacée en
+        cliquant sur la tuile.
+      </p>
+      <button id="shuffle">Mélanger</button>
+
+      <div id="puzzlearea"></div>
+
+      <p id="output"></p>
+    </div> <!-- container -->
+
+    <footer>Introduction à la programmation web 1 &mdash; 2021/2022</footer>
+
+  </body>
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  crossorigin="anonymous"></script>
+  <script src="jeu.js"></script>
+</html>

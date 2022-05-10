@@ -1,0 +1,123 @@
+/*
+NOM : Tayache
+Prénom : Rayane
+
+*/
+
+<<<<<<< HEAD
+body {
+    background-color: rgb(121, 182, 179);
+    font-family: sans-serif ;
+}
+
+h1{
+=======
+body 
+{
+    background-color: skyblue;
+    font-family: sans-serif ;
+}
+
+h1
+{
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+    display:flex;
+    justify-content: center;
+}
+
+<<<<<<< HEAD
+footer {
+=======
+footer 
+{
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+    font-size: 90% ;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+
+}
+
+<<<<<<< HEAD
+#shuffle {
+    border: none ; 
+    border-radius: 10%;
+    
+}
+
+#shuffle:hover {
+    background-color:blue ; 
+    color:  white ;
+}
+
+#puzzlearea {
+=======
+#shuffle 
+{
+    border: none ; 
+    border-radius: 40% ;
+    
+}
+
+#shuffle:hover 
+{
+    background-color: purple ; 
+    color:  white ;
+}
+
+#puzzlearea 
+{
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+    width: 368px; 
+    height: 368px; 
+    display: flex;
+    flex-wrap: wrap ; 
+<<<<<<< HEAD
+    background-color:rgb(121, 182, 179);
+=======
+    background-color:green;
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+
+<<<<<<< HEAD
+.tuile{
+=======
+.tuile
+{
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+  display:flex;
+  flex-direction: column;
+  width: 90px; 
+  height: 90px; 
+  background-size: contain; 
+  border: solid gray 1px;
+}
+
+<<<<<<< HEAD
+.tuile p {
+=======
+.tuile p 
+{
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    font-size : 110% ; 
+    color : grey; 
+    text-shadow: 1px 0 0 red,
+        -1px 0 0 #fff,
+        0 1px 0 #fff,
+        0 -1px 0 #fff,
+        1px 1px #fff,
+        -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff;
+<<<<<<< HEAD
+}    /* La propriété definis ci-dessus rajoute une ombre autour du texte des paragraphes dont l'id est tuile */ 
+=======
+    /* Commentaire:  cette propriété rajoute une ombre autour du texte  */ 
+}
+>>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
