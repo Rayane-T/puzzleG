@@ -254,4 +254,4 @@ $( "#shuffle" ).click(function() {
      // puzzle_solved(); 
 });
 
->>>>>>> c9623a2c802d9b6e81008f5f9915c4efd531b4b5
+
